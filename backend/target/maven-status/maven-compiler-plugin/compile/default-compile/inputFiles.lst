@@ -1,0 +1,10 @@
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\controller\IngestionController.java
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\IngestionApplication.java
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\service\impl\FlatFileServiceImpl.java
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\service\ClickHouseService.java
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\model\IngestionResponse.java
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\service\impl\ClickHouseServiceImpl.java
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\service\FlatFileService.java
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\model\ClickHouseConfig.java
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\model\IngestionRequest.java
+C:\Users\dhruv\Downloads\clickhouse-flatfile-ingestion-tool\backend\src\main\java\com\clickhouse\ingestion\model\FlatFileConfig.java

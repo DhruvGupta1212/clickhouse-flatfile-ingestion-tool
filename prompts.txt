@@ -1,0 +1,37 @@
+# Example Prompts for ClickHouse Flat File Ingestion Tool in Cursor AI
+
+---
+
+## Setup & Run
+
+- How do I start ClickHouse with a password?
+- How do I create a table in ClickHouse from PowerShell?
+- How do I start the backend and frontend servers?
+- What values should I enter in the web UI for ClickHouse connection?
+
+---
+
+## Troubleshooting
+
+- Why am I getting an authentication error when connecting to ClickHouse?
+- Why does my app say "No tables fetched"?
+- How do I reset ClickHouse and remove old data?
+- What port should I use for ClickHouse JDBC vs HTTP?
+- How do I check if ClickHouse is running and accepting connections?
+- How do I verify my ClickHouse credentials from PowerShell?
+
+---
+
+## Usage
+
+- How do I ingest data from a flat file to ClickHouse?
+- How do I preview data before ingestion?
+- How do I check backend logs for errors?
+
+---
+
+## Advanced
+
+- How do I change the ClickHouse user or password?
+- How do I connect to ClickHouse using the native client?
+- How do I add more tables or columns to ClickHouse?
